@@ -83,7 +83,7 @@ article {
 
 .icones2 {
   position: absolute;
-  bottom: 10rem;
+  bottom: 9rem;
   left: 71%;
   transform: translateX(-50%);
   display: flex;
@@ -98,7 +98,7 @@ article {
 
 
 .icones2 img {
-  width: 16rem;
+  width: 15rem;
   height: auto;
 }
 
@@ -134,4 +134,5 @@ article {
     display: none;
   }
 }
+
 
