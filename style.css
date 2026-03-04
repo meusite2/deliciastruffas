@@ -65,7 +65,7 @@ article {
 
 .icones{
   position: absolute;
-  bottom: -0.7rem;
+  bottom: -1.5rem;
   left: 50%;
   transform: translateX(-50%);
   display: flex;
@@ -135,6 +135,7 @@ article {
     display: none;
   }
 }
+
 
 
 
